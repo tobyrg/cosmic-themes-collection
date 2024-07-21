@@ -1,4 +1,4 @@
-# COSMIC Themes
+# COSMIC Themes Collection
 A collection of themes for the COSMIC™ desktop.
 
 Not all themes are created by me.
