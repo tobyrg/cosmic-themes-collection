@@ -10,5 +10,5 @@ Not all themes are created by me.
 - Pop Dark
 - Rose Pine Dawn
 - Rose Pine
-- Vapor - @sungsphinx
-- VGUI2 - @sungsphinx
+- Vapor
+- VGUI2
